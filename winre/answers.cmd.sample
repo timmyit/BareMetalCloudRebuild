@@ -1,0 +1,12 @@
+rem Presets for the Cloud rebuild menu. Rename this file to answers.cmd to use it.
+rem Remove "rem " in front of a line to set that value.
+rem
+rem EDITION: Professional, Core (Home), ProfessionalN or CoreN. Other edition
+rem IDs are accepted, but Enterprise and Education install as Professional.
+rem set EDITION=Professional
+rem set LANG=en-US
+rem set VERSION=10.0.26300.9974
+rem
+rem AUTO=1 starts the rebuild WITHOUT the menu and WITHOUT asking, as soon as
+rem the media boots, when exactly one target disk is found. It erases that disk.
+rem set AUTO=1

@@ -1,0 +1,5 @@
+# Build output: contains Microsoft's recovery image, never commit it.
+out/
+*.wim
+*.vhdx
+*.iso
